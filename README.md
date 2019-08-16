@@ -27,6 +27,14 @@ Throughout the Concurrency course, you have been developing a traffic simulation
 3. Compile: `cmake .. && make`
 4. Run it: `./traffic_simulation`.
 
+## TODO
+- [x] Task FP.1
+- [ ] Task FP.2
+- [ ] Task FP.3
+- [ ] Task FP.4
+- [ ] Task FP.5
+- [ ] Task FP.6
+
 ## Project Tasks
 
 When the project is built initially, all traffic lights will be green. When you are finished with the project, your traffic simulation should run with red lights controlling traffic, just as in the .gif file above. See the classroom instruction and code comments for more details on each of these parts. 
